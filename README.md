@@ -14,7 +14,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5b8e0081-13a0-4d40-b596-bf7ffd709244/deploy-status)](https://app.netlify.com/sites/incomparable-gaufre-c2f7f5/deploys) &nbsp;
 [![Build status](https://dev.azure.com/abhishekchoudharry/myReactSite/_apis/build/status/myReactSite-Docker%20container-CI)](https://dev.azure.com/abhishekchoudharry/myReactSite/_build/latest?definitionId=32) &nbsp;
-
+<img src="https://komarev.com/ghpvc/?username=abhishek0412&style=flat-square&color=blue" alt=""/>
  <!-- TODO: To update these details as per my website -->
 <!-- ![GitHub Repo stars](https://img.shields.io/github/stars/abhishek0412/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/abhishek0412/Portfolio?color=red&logo=github&style=for-the-badge) -->
